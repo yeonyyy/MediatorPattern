@@ -14,6 +14,7 @@
 		6F2C8AC42582508B000CD416 /* MediatorPattern.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6F2C8AC22582508B000CD416 /* MediatorPattern.xcdatamodeld */; };
 		6F2C8AC62582508C000CD416 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F2C8AC52582508C000CD416 /* Assets.xcassets */; };
 		6F2C8AC92582508C000CD416 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F2C8AC72582508C000CD416 /* LaunchScreen.storyboard */; };
+		6F2C8AD12582509B000CD416 /* MediatorPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F2C8AD02582509B000CD416 /* MediatorPattern.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6F2C8AC52582508C000CD416 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6F2C8AC82582508C000CD416 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F2C8ACA2582508C000CD416 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F2C8AD02582509B000CD416 /* MediatorPattern.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediatorPattern.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				6F2C8AB92582508B000CD416 /* AppDelegate.swift */,
 				6F2C8ABB2582508B000CD416 /* SceneDelegate.swift */,
 				6F2C8ABD2582508B000CD416 /* ViewController.swift */,
+				6F2C8AD02582509B000CD416 /* MediatorPattern.swift */,
 				6F2C8ABF2582508B000CD416 /* Main.storyboard */,
 				6F2C8AC52582508C000CD416 /* Assets.xcassets */,
 				6F2C8AC72582508C000CD416 /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				6F2C8ABE2582508B000CD416 /* ViewController.swift in Sources */,
 				6F2C8ABA2582508B000CD416 /* AppDelegate.swift in Sources */,
+				6F2C8AD12582509B000CD416 /* MediatorPattern.swift in Sources */,
 				6F2C8ABC2582508B000CD416 /* SceneDelegate.swift in Sources */,
 				6F2C8AC42582508B000CD416 /* MediatorPattern.xcdatamodeld in Sources */,
 			);
